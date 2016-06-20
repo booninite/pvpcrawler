@@ -1,0 +1,28 @@
+{
+  "name": "pvpcrawler",
+  "version": "0.0.1",
+  "description": "PVP.net crawler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/booninite/pvpcrawler.git"
+  },
+  "keywords": [
+    "PVP.net",
+    "riot",
+    "league",
+    "of",
+    "legends",
+    "league",
+    "esports"
+  ],
+  "author": "booninite",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/booninite/pvpcrawler/issues"
+  },
+  "homepage": "https://github.com/booninite/pvpcrawler#readme"
+}
